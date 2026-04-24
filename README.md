@@ -131,8 +131,9 @@ If you need someone who can **lead development and actually ship**, let's connec
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Your_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Add_Your_Link-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waleed_Khan_Niazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleedkniazi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mwaleed.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleedkniazi)
+[![Email](https://img.shields.io/badge/Email-waleedkniazi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedkniazi@gmail.com)
 
 </div>
