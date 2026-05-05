@@ -147,7 +147,7 @@ Education platform focused on adaptive learning and student engagement.
 * Improved learning efficiency through **dynamic content adaptation and feedback loops**
 
 **Tech:** NextJs, tailwindcss, AI 
-
+Project link: https://www.uni-learn.online/
 ---
 ## 🌍 Industry Experience
 
