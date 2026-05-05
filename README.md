@@ -117,6 +117,38 @@ Production-grade RAG backend for sports contract analysis.
 > Project link: `https://sportiv.ai/`
 
 ---
+### Success.ai
+
+**AI-Powered B2B Outreach & Lead Generation Platform**
+
+Production-grade AI sales platform for lead discovery, cold outreach, and campaign automation.
+
+* Built workflows for **B2B lead discovery, enrichment, and email outreach**
+* Developed automation around **campaign sequencing, email sending, and warmup**
+* Integrated AI-assisted writing for **personalized cold emails and icebreakers**
+* Supported unified inbox, CRM-style pipeline, and outreach tracking features
+* Worked on scalable backend flows for high-volume outbound sales operations
+
+**Tech:** OpenAI, MongoDB, Redis, BullMQ, AWS S3, Email APIs, CRM Automation, Email Engin, Elastic Search, Stripe, Inbox, SMTP and IMAP connection.
+
+> Project link: `https://app.success.ai/`
+
+---
+### UniLearn
+
+**AI-Powered Personalized Learning Platform**
+
+Education platform focused on adaptive learning and student engagement.
+
+* Built workflows for **personalized course delivery and adaptive learning paths**
+* Integrated AI to generate **summaries, explanations, and learning assistance**
+* Designed systems for **content structuring, progress tracking, and recommendations**
+* Enabled scalable handling of **course materials, quizzes, and user interactions**
+* Improved learning efficiency through **dynamic content adaptation and feedback loops**
+
+**Tech:** NextJs, tailwindcss, AI 
+
+---
 ## 🌍 Industry Experience
 
 - Media & Entertainment
