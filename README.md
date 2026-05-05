@@ -99,7 +99,24 @@ From startup MVPs to enterprise systems, I help teams move from idea to producti
 ![Figma to React](https://img.shields.io/badge/Figma%2FPSD_to_React-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+## Featured Projects
 
+### Sportiv RAG
+**AI-Powered Sports Contract Analysis Platform**
+
+Production-grade RAG backend for sports contract analysis.
+
+- Processed **2,759 legal documents (~1.3 GB)**
+- Built retrieval pipeline with **OCR, chunking, embeddings, and Pinecone vector search**
+- Designed a **rules + LLM orchestration** workflow around a **42-clause compliance taxonomy**
+- Reduced token usage by **61.5%**
+- Improved Romanian-language OCR robustness and test performance
+
+**Tech:** Python, FastAPI, OpenAI, Pinecone, PostgreSQL, Redis, BullMQ, AWS S3, OCR 
+
+> Project link: `https://sportiv.ai/`
+
+---
 ## 🌍 Industry Experience
 
 - Media & Entertainment
